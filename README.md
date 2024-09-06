@@ -1,1 +1,2 @@
 # Pizza-Order-Data-Analysis-Project
+The primary goal of this project is to analyze a pizza delivery company's sales data to extract key business insights that can drive operational efficiency and improve decision-making. By leveraging SQL queries, the project aims to uncover trends such as the most popular pizza sizes, peak ordering times, top-selling pizza types, and category-wise sales distribution. These insights will help the business optimize inventory management, staff scheduling, and marketing strategies to meet customer demands and maximize profitability.
